@@ -1,16 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Welcome!" width="400" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Welcome!" width="400" />
 </p>
 
 # 👋 Welcome to My Profile
-
-<!-- Small side GIF next to About Me -->
-<table>
-  <tr>
-    <td valign="top" width="120">
-      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="100" />
-    </td>
-    <td valign="top">
 
 ## 📝 About Me
 
@@ -20,10 +12,6 @@
 - 🌱 **Currently learning:** Rust, Docker  
 - 🎯 **Interests:** Distributed Systems, DevSecOps  
 - ✨ **Fun fact:** I competed in volleyball at one of the top clubs in Portugal!
-
-    </td>
-  </tr>
-</table>
 
 ## 💻 Languages & Tools
 
@@ -47,7 +35,6 @@
 </p>
 
 ### 🗄️ Databases
-
 <p align="center">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
