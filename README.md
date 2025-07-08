@@ -1,7 +1,7 @@
 <!-- Animated typing header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=500&color=16F596&center=true&width=600&lines=%F0%9F%91%8B+Welcome+to+My+Profile"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=500&color=1E90FF&center=true&width=500&lines=%F0%9F%91%8B+Welcome+to+My+Profile"
     alt="Typing animation"
   />
 </p>
