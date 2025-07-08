@@ -4,6 +4,14 @@
 
 # 👋 Welcome to My Profile
 
+<!-- Small side GIF next to About Me -->
+<table>
+  <tr>
+    <td valign="top" width="120">
+      <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding GIF" width="100" />
+    </td>
+    <td valign="top">
+
 ## 📝 About Me
 
 - 👤 **Name:** Tiago Raposo  
@@ -12,6 +20,10 @@
 - 🌱 **Currently learning:** Rust, Docker  
 - 🎯 **Interests:** Distributed Systems, DevSecOps  
 - ✨ **Fun fact:** I competed in volleyball at one of the top clubs in Portugal!
+
+    </td>
+  </tr>
+</table>
 
 ## 💻 Languages & Tools
 
@@ -61,5 +73,3 @@
   <img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
   <img alt="AutoCAD" src="https://img.shields.io/badge/AutoCAD-B71C1C?logo=autocad&logoColor=white&style=for-the-badge" />
 </p>
-
-
