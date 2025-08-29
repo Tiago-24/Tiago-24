@@ -16,7 +16,7 @@
 - 👤 **Name:** Tiago Raposo  
 - 🎓 **Position:** 3rd-year Bachelor’s in Information Technology @ Faculdade de Ciências da Universidade de Lisboa  
 - 📍 **Location:** Lisboa, Portugal  
-- 🌱 **Currently learning:** C, Docker
+- 🌱 **Currently learning:** Blue and Red team, SOC 
 - 🎯 **Interests:** Distributed Systems, Cyber-Security
 - ✨ **Fun fact:** I competed in volleyball at one of the top clubs in Portugal!
 
