@@ -14,7 +14,8 @@
 ## 📝 About Me
 
 - 👤 **Name:** Tiago Raposo  
-- 🎓 **Position:** 3rd-year Bachelor’s in Information Technology @ Faculdade de Ciências da Universidade de Lisboa  
+- 🎓 **Position:** 3rd-year Bachelor’s in Information Technology @ Faculdade de Ciências da Universidade de Lisboa
+- 🎓 **Position:** Isolated Master's Degree Courses in Computer Science and Engineering @ Instituto Superior Técnico  
 - 📍 **Location:** Lisboa, Portugal  
 - 🌱 **Currently learning:** Blue and Red team, SOC 
 - 🎯 **Interests:** Distributed Systems, Cyber-Security
