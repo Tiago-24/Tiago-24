@@ -40,7 +40,8 @@
   <img alt="Compute Engine" src="https://img.shields.io/badge/Compute%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img alt="VPC Networking" src="https://img.shields.io/badge/VPC%20Networking-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img alt="Cloud Firewall" src="https://img.shields.io/badge/Firewall-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
-  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
+  <img alt="Microsoft Azure" src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white" />
+  <img alt="Azure DevOps" src="https://custom-icon-badges.demolab.com/badge/Azure%20DevOps-0078D7?logo=azure-devops-white&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
