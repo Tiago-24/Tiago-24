@@ -14,10 +14,10 @@
 ## 📝 About Me
 
 - 👤 **Name:** Tiago Raposo  
-- 🎓 **Position:** Bachelor’s in Information Technology @ Faculdade de Ciências da Universidade de Lisboa
-- 🎓 **Position:** Isolated Master's Degree Courses in Computer Science and Engineering @ Instituto Superior Técnico  
+- 💼: **Position:** Azure DevOps & Security Champion Trainee @ Siemens
+- 🎓 **Position:** MSc Student in Computer Science and Engineering @ FCUL  
 - 📍 **Location:** Lisboa, Portugal  
-- 🌱 **Currently learning:** Blue and Red team, SOC 
+- 🌱 **Currently learning:** Blue and Red team, Azure DevSecOps
 - 🎯 **Interests:** Distributed Systems, Cyber-Security
 - ✨ **Fun fact:** I competed in volleyball at one of the top clubs in Portugal!
 
@@ -40,6 +40,7 @@
   <img alt="Compute Engine" src="https://img.shields.io/badge/Compute%20Engine-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img alt="VPC Networking" src="https://img.shields.io/badge/VPC%20Networking-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
   <img alt="Cloud Firewall" src="https://img.shields.io/badge/Firewall-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" />
+  <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" />
 </p>
 
 ### 🗄️ Databases
